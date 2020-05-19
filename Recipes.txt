@@ -4,3 +4,6 @@ rice
 
 chicken
 milk
+
+beans
+pizza
