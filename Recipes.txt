@@ -1,3 +1,6 @@
 egg
 vegies
 rice
+
+chicken
+milk
